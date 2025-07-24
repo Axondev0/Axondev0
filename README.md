@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Odunuga Pelumi (Axon)
 
-### I'm a Python programmer and builder, exploring how software, DevOps, and the cloud work together to power the internet.
+I'm a Python programmer and builder, exploring how software, DevOps, and the cloud work together to power the internet.
 I’m not just learning, I’m creating. Real-world projects that solve real problems.
 
 ### 🔧 What I Do
