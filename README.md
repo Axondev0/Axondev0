@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Hey, I'm Odunuga Pelumi (Axon)
 
-<!--
-**Axondev0/Axondev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Python programmer and builder, exploring how software, DevOps, and the cloud work together to power the internet.
+I’m not just learning, I’m creating. Real-world projects that solve real problems.
 
-Here are some ideas to get you started:
+### 🔧 What I Do
+🐍 Python Programming – Building scripts, automations, and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Cloud & DevOps Enthusiast – Curious about AWS, CI/CD, Docker, and how things scale.
+
+🧠 Problem Solver – Always experimenting, always building.
+
+### 🛠 Tech Stack
+
+Languages: Python, C , HTML/CSS , PHP (basic)
+Tools: Git, GitHub, VS Code, Linux
+Currently Learning: Docker, CI/CD , GitHub Actions, Cloud fundamentals,
+
+### ✨ Vibe
+
+Building things that work. Keeping it clean. Keeping it simple.Let’s build, break, and rebuild better.
+
+“I don’t just code, I create impact.” #Axon
+
+### 📫 Let’s Connect
+
+💼 LinkedIn: www.linkedin.com/in/odunugapelumi
+
+📧 Email: Odunugapelumi@Gmail.com
+
