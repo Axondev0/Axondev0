@@ -4,11 +4,14 @@ I'm a Python programmer and builder, exploring how software, DevOps, and the clo
 I’m not just learning, I’m creating. Real-world projects that solve real problems.
 
 ### 🔧 What I Do
-🐍 Python Programming – Building scripts, automations, and backend systems.
+🐍 Python Programming:
+Building scripts, automations, and backend systems.
 
-☁️ Cloud & DevOps Enthusiast – Curious about AWS, CI/CD, Docker, and how things scale.
+☁️ Cloud & DevOps Enthusiast:
+Curious about AWS, CI/CD, Docker, and how things scale.
 
-🧠 Problem Solver – Always experimenting, always building.
+🧠 Problem Solver:
+Always experimenting, always building.
 
 ### 🛠 Tech Stack
 
@@ -19,8 +22,7 @@ Currently Learning: Docker, CI/CD , GitHub Actions, Cloud fundamentals,
 ### ✨ Vibe
 
 Building things that work. Keeping it clean. Keeping it simple.Let’s build, break, and rebuild better.
-
-“I don’t just code, I create impact.” #Axon
+“I don’t just code, I create impact.”
 
 ### 📫 Let’s Connect
 
