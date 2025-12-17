@@ -15,9 +15,11 @@ Always experimenting, always building.
 
 ### 🛠 Tech Stack
 
-Languages: Python, C , HTML/CSS , PHP (basic)
-Tools: Git, GitHub, VS Code, Linux
-Currently Learning: Docker, CI/CD , GitHub Actions, Cloud fundamentals,
+**Languages:** Python, C, HTML/CSS, PHP
+
+**Tools:** Git, GitHub, VS Code, Linux
+
+**Currently Learning:** Docker, Kubernetes, CI/CD pipelines, AWS, Cloud fundamentals
 
 ### ✨ Vibe
 
