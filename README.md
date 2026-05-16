@@ -1,34 +1,86 @@
-### 👋 Hey, I'm Odunuga Pelumi (Axon)
+# 👋 Hey, I'm Odunuga Pelumi (Axon)
 
-I'm a Python programmer and builder, exploring how software, DevOps, and the cloud work together to power the internet.
-I’m not just learning, I’m creating. Real-world projects that solve real problems.
+**DevOps Engineer | Cloud Infrastructure | AWS • Docker • Linux**
 
-### 🔧 What I Do
-🐍 Python Programming:
-Building scripts, automations, and backend systems.
+I build scalable infrastructure, automate deployments, and solve real-world cloud problems. SIWES-trained with hands-on experience across AWS, containerization, CI/CD, and Linux automation.
 
-☁️ Cloud & DevOps Enthusiast:
-Curious about AWS, CI/CD, Docker, and how things scale.
+---
 
-🧠 Problem Solver:
-Always experimenting, always building.
+## 🔧 What I Do
 
-### 🛠 Tech Stack
+**Cloud Infrastructure:**  
+Designing and deploying applications on AWS (EC2, VPC, S3, CloudWatch). Configuring load balancers, auto-scaling groups, and monitoring systems that work at scale.
 
-**Languages:** Python, C, HTML/CSS, PHP
+**Containerization & Orchestration:**  
+Building Docker images, managing multi-container deployments with Docker Compose. Learning Kubernetes for orchestrated workloads.
 
-**Tools:** Git, GitHub, VS Code, Linux
+**CI/CD & Automation:**  
+Setting up Jenkins pipelines, GitHub Actions workflows, and Bash scripts to automate infrastructure deployment and testing.
 
-**Currently Learning:** Docker, Kubernetes, CI/CD pipelines, AWS, Cloud fundamentals
+**Infrastructure Monitoring:**  
+Implementing CloudWatch alarms, SNS notifications, and log analysis to keep systems running smoothly.
 
-### ✨ Vibe
+---
 
-Building things that work. Keeping it clean. Keeping it simple.Let’s build, break, and rebuild better.
-“I don’t just code, I create impact.”
+## 🛠 Tech Stack
 
-### 📫 Let’s Connect
+**Cloud & Infrastructure:**  
+AWS (EC2, VPC, S3, CloudWatch, Elastic Beanstalk, Auto Scaling)
 
-💼 LinkedIn: www.linkedin.com/in/odunugapelumi
+**Containerization:**  
+Docker, Docker Compose
 
-📧 Email: Odunugapelumi@Gmail.com
+**CI/CD & Automation:**  
+Jenkins, GitHub Actions, Bash Scripting
 
+**Version Control:**  
+Git, GitHub (SSH authentication, branching strategies)
+
+**Systems & Networking:**  
+Linux Administration, TCP/IP, DNS, OSI Model, Subnetting
+
+**Languages:**  
+Python, Bash, Shell Script
+
+---
+
+## 📚 Current Focus
+
+- Real-world lab projects in WSL/Ubuntu environment
+- Automating infrastructure deployment and monitoring
+- Troubleshooting and debugging cloud infrastructure
+- Building production-ready Docker applications
+- Mastering Kubernetes for container orchestration
+
+---
+
+## 🚀 Featured Projects
+
+Check out my repos for hands-on DevOps work:
+
+- **SIWES-DevOps-Projects** — Complete lab portfolio from 12-week training
+- **docker/** — Docker containerization examples and best practices
+- **docker-compose/** — Docker compose examples and best practices
+- **Bash-scripting/** — Infrastructure automation scripts
+- **github-action/** — CI/CD pipeline configurations
+- **learn-jenkins-app/** — CI/CD pipeline configurations
+
+---
+
+## 🎯 I'm Looking For
+
+**Junior DevOps Engineer | DevOps Internship | Cloud Infrastructure roles**
+
+Remote, relocation, or contract opportunities. Interested in building with teams that value automation, clean infrastructure, and continuous improvement.
+
+---
+
+## 📫 Let's Connect
+
+💼 **LinkedIn:** [linkedin.com/in/odunugapelumi](https://www.linkedin.com/in/odunugapelumi)  
+📧 **Email:** odunugapelumi@gmail.com  
+🐙 **GitHub:** [github.com/Axondev0](https://github.com/Axondev0)
+
+---
+
+**"Infrastructure is code. Code is automation. Automation is impact."**
